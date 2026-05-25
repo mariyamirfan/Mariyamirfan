@@ -47,6 +47,7 @@ Workflow automations and smart integrations.
 - LinkedIn: https://www.linkedin.com/in/mariyam-babbar-35078231b
 - Portfolio: https://my-personal-protfolio-zeta.vercel.app
 - Email: mariyamirfan110@gmail.com
+- X: https://x.com/mariyam_babbar
 
 ---
 
