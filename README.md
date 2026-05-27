@@ -45,7 +45,7 @@ Workflow automations and smart integrations.
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/mariyam-babbar-35078231b
-- Portfolio: [https://mariyam-babbar-offical-protfolio.vercel.app/]
+- Portfolio: [https://mariyam-babbar-offical-protfolio.vercel.app/
 - Email: mariyamirfan110@gmail.com
 - X: https://x.com/mariyam_babbar
 
