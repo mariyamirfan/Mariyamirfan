@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mariyamirfan/Mariyamirfan/main/Banner.png" alt="Banner">
+</p>
+
 # Hi 👋, I'm Mariyam Babbar
 
-### 🚀 Full Stack Developer | Graphics Designer | Content Creator | Trading Bot Engineer | AI & Automation Builder
+## 🚀 Full Stack Developer | Graphics Designer | Content Creator | Trading Bot Engineer | AI & Automation Builder
 
 I'm a passionate developer and creator who loves building modern digital experiences, AI-powered solutions, trading systems, and beautiful web applications.
 
@@ -57,6 +61,14 @@ I'm a passionate developer and creator who loves building modern digital experie
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariyamirfan&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariyamirfan&layout=compact)
+
+---
+
 ## 🚀 What I Build
 
 ✔ Modern Websites
@@ -76,14 +88,6 @@ I'm a passionate developer and creator who loves building modern digital experie
 ✔ UI/UX Designs
 
 ✔ Personal Branding Assets
-
----
-
-## 📊 GitHub Stats
-
-![Mariyam's GitHub Stats](https://github-readme-stats.vercel.app/api?mariyamirfan_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?mariyamirfan_USERNAME&layout=compact)
 
 ---
 
