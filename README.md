@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Mariyam Babbar
 
-#### 🚀 Full Stack Developer | Graphics Designer | Content Creator | Trading Bot Engineer | AI & Automation Builder
+### 🚀 Full Stack Developer | Graphics Designer | Content Creator | Trading Bot Engineer | AI & Automation Builder
 
 I'm a passionate developer and creator who loves building modern digital experiences, AI-powered solutions, trading systems, and beautiful web applications.
 
