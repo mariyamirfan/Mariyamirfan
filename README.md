@@ -101,7 +101,7 @@ I'm a passionate developer and creator who loves building modern digital experie
 
 ## 🤝 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/mariyam-babbar
+- LinkedIn: https://www.linkedin.com/in/mariyam-babar/
 - Email: mariyamirfan110@gmail.com
 - Twitter: https://x.com/mariyam_babbar
 
